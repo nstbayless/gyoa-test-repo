@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="burubur blhe"/>
-	<body text="This is the body text, but nobody has written anything yet.
-If you'd like to edit it, press [t] from edit mode. If you're not in edit mode, press [e] to enter edit mode."/>
+	<title text="burubur mehehe"/>
+	<body text="This is the t mode."/>
 </room>
 
