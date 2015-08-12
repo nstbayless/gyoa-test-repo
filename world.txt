@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<world version="0.2" start_rm_id="0:0" next_rm_gid="1">
+	<title text="untitled world"/>
+	<rm id="0:0"/>
+</world>
+
