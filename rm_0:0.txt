@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="blhaed"/>
+	<title text="CONFLICT-&gt;&gt;ejwoi|&lt;-remote : local-&gt;|blhaed&lt;&lt;-CONFLICT"/>
 	<body text="This is the t mode."/>
 </room>
 
