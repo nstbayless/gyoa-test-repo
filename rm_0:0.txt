@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-<<<<<<< HEAD
 	<title text="vkiio"/>
 	<body text="l[paslpd
 This is tt t mode."/>
 	<option dst="4294967295:32767" text="koo ovk" id="1:1559441423"/>
-=======
-	<title text="78078"/>
-	<body text="This is tt tjj mode."/>
->>>>>>> 748d8ad2321461654f98b3e3504277c08b420e90
 </room>
 
