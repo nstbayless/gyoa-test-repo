@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<context version="0.1">
+	<username text="gyoa_client"/>
+	<email text="?@?"/>
+	<upstream text="https://github.com/nstbayless/gyoa-test-repo"/>
+	<current_room id="0:0"/>
+</context>
+
