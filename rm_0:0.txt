@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="Test title"/>
+	<title text="A nondescript room"/>
 	<body text="You walk into a room"/>
 	<option dst="1:1815208708" text="go to another room
 " id="1:1559441423"/>
