@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text="Dead end"/>
+	<body text="Looks like there's nowhere to go from here."/>
+	<dead_end/>
+</room>
+

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="z"/>
-	<body text="This is a silly little body text."/>
-	<option dst="-1:-1" text="koo ovk" id="1:1559441423"/>
+	<title text="Test title"/>
+	<body text="You walk into a room"/>
+	<option dst="1:1815208708" text="go to another room
+" id="1:1559441423"/>
 </room>
 

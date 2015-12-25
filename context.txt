@@ -3,6 +3,6 @@
 	<username text="gyoa_client"/>
 	<email text="?@?"/>
 	<upstream text="https://github.com/nstbayless/gyoa-test-repo"/>
-	<current_room id="0:0"/>
+	<current_room id="1:1815208708"/>
 </context>
 
