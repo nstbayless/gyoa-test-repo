@@ -5,7 +5,7 @@
 	<upstream text="https://github.com/nstbayless/gyoa-test-repo"/>
 	<current_room id="0:0"/>
 	<authentication no_store="false">
-		<user name=""/>
+		<user name="nstbayless"/>
 		<privkey path=""/>
 		<pubkey path=""/>
 	</authentication>
