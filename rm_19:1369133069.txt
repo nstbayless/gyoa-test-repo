@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='"Don&apos;t be foolish. If you said anything the postmaster would notice you. You think you might recognize her actually. So she might recognize you."'/>
+</room>
+
