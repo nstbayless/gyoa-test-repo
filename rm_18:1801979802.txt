@@ -5,7 +5,7 @@
 
 "The dragon rider disembarks. He is an easy mark, and the dragon before you is, at last, an opportunity to high-tail it out of town."
 
-A pause. It drags on uncomfortably.'/>
+A pause. It drags on uncomfortably. You feel the urge to break it.'/>
 	<option dst="-1:-1" text='"Am I supposed to say something?"' id="1:1315634022"/>
 	<option dst="-1:-1" text='"Wait, you&apos;re telling me you hijacked a dragon?"' id="2:635723058"/>
 </room>
