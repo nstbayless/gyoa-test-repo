@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="A dining car at ten thousand feet"/>
-	<body text="The fractal reflections of the setting sun in the waves glisten beautifully. As the sun approaches the horizon, it lines up exactly with the gaps under the tables and chairs in the gondola, and for a few minutes the sunlight can pass right through to the window on the other side.
+	<title text=""/>
+	<body text='"Hello"?
 
-If somebody were out there in the east, they would see a bright spot in the sky where the oddly-curved dining car acts as a lens.
+The words echo awkwardly in the dark...
 
-But nobody is out there. Just waves and small islands for miles, and then the end. There are more waves and more islands past that, but nobody can survive going past the end.
-
-That's okay, there are plenty of other passengers to talk to. And after landing...
-
-Well, let's not think about that for now."/>
+Maybe you should respond.'/>
+	<option dst="-1:-1" text='"Um... hello?"' id="1:1649760492"/>
+	<option dst="-1:-1" text='"What?"' id="2:596516649"/>
 </room>
 
