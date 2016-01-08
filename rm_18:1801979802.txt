@@ -3,7 +3,7 @@
 	<title text="untitled scenario"/>
 	<body text='"Yeah, warbling, like birds do. But the rider&apos;s song isn&apos;t for your ears, and the days when you sent messages through the sky are long behind you.
 
-The dragon rider is an easy mark, and the dragon before you is, at last, an opportunity for escape."'/>
+"The dragon rider is an easy mark, and the dragon before you is, at last, an opportunity for escape."'/>
 	<option dst="-1:-1" text="Push the singing postman asside and make for the dragon." id="1:1315634022"/>
 	<option dst="-1:-1" text="Leave him be, you'd never make it into the sky anyhow." id="2:635723058"/>
 </room>
