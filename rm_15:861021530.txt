@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='"A &lt;i&gt;grand&lt;/i&gt; intersection."'/>
+</room>
+
