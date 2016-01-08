@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"And you never will if you know what&apos;s good for you."'/>
+	<body text='"And you never will if you know what&apos;s good for you.
+
+"You glance back down at the postmaster. You recognize her, actually. She was in your cohort, back in the day. She was always getting into trouble by getting the addresses of the major members of the nobility mixed up when delivering notices. Of course, that might have been due to your misinformation. You tried to bring everybody&apos;s scores down." The speaker chuckles. "Of course, if you hadn&apos;t been so absent-minded when reading about dragon-riding, maybe you could have gotten the top score through honest means."'/>
 </room>
 
