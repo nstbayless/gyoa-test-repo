@@ -7,6 +7,6 @@
 
 A pause. It drags on uncomfortably. You feel the urge to break it.'/>
 	<option dst="19:1369133069" text='"Am I supposed to say something?"' id="1:1315634022"/>
-	<option dst="-1:-1" text='"Wait, you&apos;re telling me you hijacked a dragon?"' id="2:635723058"/>
+	<option dst="20:1125898167" text='"Wait, you&apos;re telling me you hijacked a dragon?"' id="2:635723058"/>
 </room>
 
