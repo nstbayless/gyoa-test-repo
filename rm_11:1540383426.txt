@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text="You're tired. It's so dark you can barely see anything past the bars of the cell. You're hungry and you hurt everywhere. You don't want to get up or think or try to escape, not yet. You're too tired for all that.
+
+You especially don't want to strike up a conversation with your new neighbour."/>
+</room>
+

@@ -4,6 +4,6 @@
 	<body text='"I&apos;m talking about what really matters here. The big decisions in life. I&apos;m talking about me. I&apos;m talking about how I got here."
 
 They start coughing and hacking.'/>
-	<option dst="-1:-1" text='"Sorry, not in the mood to talk right now."' id="1:1365180540"/>
+	<option dst="11:1540383426" text='"Sorry, not in the mood to talk right now."' id="1:1365180540"/>
 </room>
 
