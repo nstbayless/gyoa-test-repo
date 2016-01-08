@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"&apos;My dragonsong is fine,&apos; she mutters. She&apos;s about to punch you again but you grab her fist mid-swing. She isn&apos;t so lively anymore."'/>
+	<body text='The speaker continues, "&apos;My dragonsong is fine,&apos; she mutters. She&apos;s about to punch you again but you grab her fist mid-swing. She isn&apos;t so lively anymore."'/>
 	<option dst="29:137806862" text='"I probably hurt her feelings. Stabbing her and whatnot."' id="1:749241873"/>
 </room>
 
