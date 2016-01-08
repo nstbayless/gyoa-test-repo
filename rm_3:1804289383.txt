@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text="untitled scenario"/>
+	<body text="nyeh"/>
+	<option dst="-1:-1" text="new option (1)..." id="1:846930886"/>
+</room>
+
