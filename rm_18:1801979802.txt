@@ -3,7 +3,7 @@
 	<title text=""/>
 	<body text='"Yeah, warbling, like birds do. But the rider&apos;s song isn&apos;t for your ears, and the days when you sent messages through the sky are long behind you.
 
-"The dragon rider disembarks. He is an easy mark, and the dragon before you is, at last, an opportunity to high-tail it out of town."
+"The dragon rider disembarks. She is an easy mark, and the dragon before you is, at last, an opportunity to high-tail it out of town."
 
 A pause. It drags on uncomfortably. You feel the urge to break it.'/>
 	<option dst="19:1369133069" text='"Am I supposed to say something?"' id="1:1315634022"/>
