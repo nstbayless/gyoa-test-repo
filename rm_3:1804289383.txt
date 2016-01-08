@@ -2,6 +2,6 @@
 <room version="0.2">
 	<title text="untitled scenario"/>
 	<body text="nyeh"/>
-	<option dst="-1:-1" text="new option (1)..." id="1:846930886"/>
+	<option dst="4:1681692777" text="new option (1)..." id="1:846930886"/>
 </room>
 

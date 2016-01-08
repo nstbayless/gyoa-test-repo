@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<world version="0.2" start_rm_id="0:0" next_rm_gid="4">
+<world version="0.2" start_rm_id="0:0" next_rm_gid="5">
 	<title text="blah world"/>
 	<rm id="0:0"/>
 	<rm id="1:1815208708"/>
 	<rm id="2:1804289383"/>
 	<rm id="3:1804289383"/>
+	<rm id="4:1681692777"/>
 </world>
 
