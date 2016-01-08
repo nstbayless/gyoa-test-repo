@@ -3,7 +3,7 @@
 	<title text=""/>
 	<body text='"Hello"?
 
-The words echo awkwardly in the dark...
+The words echo ominously in the dark...
 
 Maybe you should respond.'/>
 	<option dst="6:1189641421" text='"Um... hello?"' id="1:1649760492"/>
