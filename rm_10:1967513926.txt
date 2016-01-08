@@ -5,5 +5,7 @@
 
 They start coughing and hacking.'/>
 	<option dst="11:1540383426" text='"Sorry, not in the mood to talk right now."' id="1:1365180540"/>
+	<option dst="-1:-1" text="Ignore the apparent troll and explore the environment" id="2:511702305"/>
+	<option dst="-1:-1" text="new option (3)..." id="3:2084420925"/>
 </room>
 
