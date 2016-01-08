@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text="Another room"/>
+	<body text="This one looks just like the last one."/>
+	<option dst="0:0" text="go back" id="1:719885386"/>
+</room>
+
