@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"You ask her how she is feeling. She rolls her eyes and and kicks the dragon three times, warbling -- singing -- the whole while.
+	<body text='"You ask her how she is feeling. She rolls her eyes and and kicks the dragon three times in the flank, warbling -- singing -- the whole while.
 
 "The dragon responds to her commands by rolling over."'/>
 	<option dst="-1:-1" text='"She&apos;ll be crushed!"' id="1:42999170"/>
