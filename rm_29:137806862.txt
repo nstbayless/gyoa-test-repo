@@ -6,5 +6,6 @@
 "The dragon responds to her commands by rolling over."'/>
 	<option dst="-1:-1" text='"She&apos;ll be crushed!"' id="1:42999170"/>
 	<option dst="-1:-1" text='"I&apos;ll be crushed!"' id="2:982906996"/>
+	<option dst="-1:-1" text='"How long is this going to take?"' id="3:1827336327"/>
 </room>
 
