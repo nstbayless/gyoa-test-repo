@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"Yeah, warbling, like birds do. But the rider&apos;s song isn&apos;t for your ears, and the days when you sent messages through the sky are long behind you.
+	<body text='"Yeah, warbling, like birds do. But the rider&apos;s song isn&apos;t for your ears, and the days when you sent messages through the sky are long behind you. You&apos;re free to listen, though.
 
 "The dragon rider disembarks. She is an easy mark, and the dragon before you is, at last, an opportunity to high-tail it out of town."
 
