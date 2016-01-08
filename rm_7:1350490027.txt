@@ -6,6 +6,6 @@
 A pause.
 
 "Before you are all the mistakes you haven&apos;t made yet."'/>
-	<option dst="-1:-1" text='"Wait, what are you talking about?"' id="1:1102520059"/>
+	<option dst="10:1967513926" text='"Wait, what are you talking about?"' id="1:1102520059"/>
 </room>
 
