@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='"You feel guilty about what you&apos;ve done. That&apos;s a first. So you take off the cap and place it back on her head in respect. But then, as you withdraw your hand, she suddenly reaches out and grabs it."'/>
+	<option dst="-1:-1" text='"So she&apos;s not dead?"' id="1:756898537"/>
+</room>
+
