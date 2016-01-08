@@ -6,6 +6,6 @@
 Maybe you&apos;ll end up like that too. Talking nonsense about dragons and wizards.
 
 "The dragon is descending down onto the market place. As it glides down, its rider warbles loudly."'/>
-	<option dst="-1:-1" text='"Is that even a word?' id="1:1101513929"/>
+	<option dst="18:1801979802" text='"Is that even a word?' id="1:1101513929"/>
 </room>
 
