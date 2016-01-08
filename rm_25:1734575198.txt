@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='For finding out you hadn&apos;t murdered some figment of the imagination of the crazed prisoner next to you, you sure are relieved.
+
+"Indeed not. You&apos;re stunned; she seems very lively in fact. She pulls herself up, and slaps you in the face. &apos;Your dragon song is still terrible,&apos; she says. Then she coughs up blood."'/>
+	<option dst="-1:-1" text='"Um... is she okay?"' id="1:1973594324"/>
+</room>
+
