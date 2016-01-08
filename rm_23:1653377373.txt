@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='The sarcasm in your voice was more cutting than you&apos;d intended. You consider apologizing.
+
+"&apos;Your dragonsong is shrillish&apos;, the postmaster says, grunting in pain. &apos;Please don&apos;t anger him by shouting any louder.&apos;
+
+"You look down at the postmaster, but your head whips back after she punches you in the face."'/>
+	<option dst="-1:-1" text='"She seems nice."' id="1:859484421"/>
+</room>
+

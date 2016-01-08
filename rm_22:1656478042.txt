@@ -2,6 +2,6 @@
 <room version="0.2">
 	<title text=""/>
 	<body text='"You should have figured that out before you murdered that postmaster. You pick up the reigns and kick it twice. It spreads its wings. But it doesn&apos;t go anywhere."'/>
-	<option dst="-1:-1" text='"Clearly I should warble louder."' id="1:1131176229"/>
+	<option dst="23:1653377373" text='"Clearly I should warble louder."' id="1:1131176229"/>
 </room>
 
