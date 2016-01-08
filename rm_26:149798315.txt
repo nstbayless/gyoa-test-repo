@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='Sarcasm again. This person hasn&apos;t seemed to notice it. Why would you care anyway? They&apos;re just some storytelling yahoo in the cell over.
+
+"She isn&apos;t. You recognize her as one of your classmates from the postdragon-riding academy of Pn&apos;erh. You&apos;ve been punched by her before.
+
+"It&apos;s hard to forget a punch to the face. They have distinctive qualities to them." They sound wistful.
+
+"I remember the first time I --"
+
+They break off suddenly.'/>
+	<option dst="-1:-1" text='"Are you okay?"' id="1:2038664370"/>
+	<option dst="-1:-1" text='"The first time you what?"' id="2:1129566413"/>
+</room>
+
