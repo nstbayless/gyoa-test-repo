@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='There&apos;s some skittering near your feet. Probably rats. Then a few seconds pause.
+
+"Fine."
+
+The speaker doesn&apos;t say anything more after that.
+
+The silence feels really nice at first. But after a few minutes it starts to collect up and you can hear it ringing in your ears.
+
+Maybe striking up a conversation is what you need right now.'/>
+	<option dst="-1:-1" text='"So... what&apos;s your name?"' id="1:35005211"/>
+</room>
+
