@@ -5,6 +5,6 @@
 
 "Gosh, it&apos;s been so long. It probably doesn&apos;t matter anyway. Anyway. Where was I..?"'/>
 	<option dst="-1:-1" text='"You were telling me how you got here"' id="1:294702567"/>
-	<option dst="15:861021530" text='"&apos;a great intersection&apos;"' id="2:1726956429"/>
+	<option dst="15:861021530" text='"&apos;A great intersection&apos;"' id="2:1726956429"/>
 </room>
 
