@@ -11,6 +11,6 @@
 
 They break off suddenly.'/>
 	<option dst="27:184803526" text='"Are you okay?"' id="1:2038664370"/>
-	<option dst="-1:-1" text='"The first time you what?"' id="2:1129566413"/>
+	<option dst="27:184803526" text='"The first time you what?"' id="2:1129566413"/>
 </room>
 
