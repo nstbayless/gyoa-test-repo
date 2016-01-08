@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"You should have figured that out before you murdered that postmaster. You pick up the reigns and kick it twice. It spreads its wings."'/>
+	<body text='"You should have figured that out before you murdered that postmaster. You pick up the reigns and kick it twice. It spreads its wings. But it doesn&apos;t go anywhere."'/>
+	<option dst="-1:-1" text='"Clearly I should warble louder."' id="1:1131176229"/>
 </room>
 
