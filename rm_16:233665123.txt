@@ -2,6 +2,6 @@
 <room version="0.2">
 	<title text=""/>
 	<body text='"Of course not! It&apos;s a dragon. Belongs to the monarchy, too -- the white ones are all royal."'/>
-	<option dst="-1:-1" text='"Oh, of course..."' id="1:2145174067"/>
+	<option dst="17:468703135" text='"Oh, of course..."' id="1:2145174067"/>
 </room>
 

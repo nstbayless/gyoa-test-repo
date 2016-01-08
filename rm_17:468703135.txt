@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='Whoever that is in the next cell, they&apos;ve definitely lost it. It sure sounds like they&apos;ve been in here for way too long.
+
+Maybe you&apos;ll end up like that too. Talking nonsense about dragons and wizards.
+
+"The dragon is descending down onto the market place. As it glides down, its rider warbles loudly."'/>
+	<option dst="-1:-1" text='"Is that even a word?' id="1:1101513929"/>
+</room>
+
