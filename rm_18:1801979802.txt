@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text="untitled scenario"/>
+	<title text=""/>
 	<body text='"Yeah, warbling, like birds do. But the rider&apos;s song isn&apos;t for your ears, and the days when you sent messages through the sky are long behind you.
 
 "The dragon rider is an easy mark, and the dragon before you is, at last, an opportunity for escape."'/>
