@@ -6,6 +6,6 @@
 The speaker coughs again, twice.
 
 "A shadow --" another cough. "Sorry. A shadow passes over you. You look up. It&apos;s hard to make out the shape against the sun, but you know what it is. The enormous wings, the metallic white glinting light at you."'/>
-	<option dst="-1:-1" text='"Is it a plane?"' id="1:278722862"/>
+	<option dst="16:233665123" text='"Is it a plane?"' id="1:278722862"/>
 </room>
 
