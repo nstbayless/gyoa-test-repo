@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"&lt;i&gt;A grand intersection&lt;/i&gt;. Behind you are all the mistakes you&apos;ve made leading up to this point."'/>
+	<body text='"&lt;i&gt;A grand intersection&lt;/i&gt;. Behind you are all the mistakes you&apos;ve made leading up to this point. Before you, well you know what&apos;s up ahead."
+
+A pause.
+
+"Before you are all the mistakes you haven&apos;t made yet."'/>
+	<option dst="-1:-1" text='"Wait, what are you talking about?"' id="1:1102520059"/>
 </room>
 
