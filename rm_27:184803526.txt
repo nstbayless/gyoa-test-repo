@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='The speaker starts coughing again. You&apos;re surprised they lapsed out of the story. It felt like you were about to learn something interesting.
+
+"Anyway. She doesn&apos;t look like she&apos;s in very good shape."'/>
+	<option dst="-1:-1" text='"Probably because I tried to kill her."' id="1:412776091"/>
+	<option dst="-1:-1" text='"I could say the same thing about you."' id="2:1424268980"/>
+</room>
+
