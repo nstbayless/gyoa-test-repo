@@ -6,7 +6,7 @@
 "Yeah, sure. You slide your dagger into a gap in the postmaster&apos;s breastplate. The blood is sticky on your fingers, but you don&apos;t worry -- you&apos;ve never been able to get it off your hands and clothes before, so why start fretting about it now?
 
 "Some passers-by glance in your direction. Hopefully, so long as you warble at the top of your lungs, nobody will notice the difference. You nab the postmaster&apos;s distinctive cap and hop onto the dragon. Nicely done."'/>
-	<option dst="-1:-1" text='"Woah, I never said anything about murder."' id="1:1059961393"/>
+	<option dst="-1:-1" text='"Woah, I never said anything about murder!"' id="1:1059961393"/>
 	<option dst="-1:-1" text='"So how do you fly a dragon anyway?"' id="2:2089018456"/>
 </room>
 
