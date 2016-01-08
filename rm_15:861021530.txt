@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"A &lt;i&gt;grand&lt;/i&gt; intersection."'/>
+	<body text='"A &lt;i&gt;grand&lt;/i&gt; intersection. A wagon careens across the street toward you; you dodge out of the way just in time. The chaotic marketplace is overwhelming. It&apos;s a rough part of town, and it smells awful, but it&apos;s also comforting to feel the warmth of daily life."
+
+The speaker coughs again, twice.
+
+"A shadow --" another cough. "Sorry. A shadow passes over you. You look up. It&apos;s hard to make out the shape against the sun, but you know what it is. The enormous wings, the metallic white glinting light at you."'/>
+	<option dst="-1:-1" text='"Is it a plane?"' id="1:278722862"/>
 </room>
 
