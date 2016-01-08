@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<room version="0.2">
+	<title text=""/>
+	<body text='That gruff voice again:
+
+"You stand before a grand intersection. All around you is the bustle of daily life in the slums district. Behind you is --"'/>
+	<option dst="-1:-1" text='"Wait, what are you talking about?"' id="1:1025202362"/>
+</room>
+
