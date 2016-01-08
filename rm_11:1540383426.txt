@@ -4,5 +4,6 @@
 	<body text="You're tired. It's so dark you can barely see anything past the bars of the cell. You're hungry and you hurt everywhere. You don't want to get up or think or try to escape, not yet. You're too tired for all that.
 
 You especially don't want to strike up a conversation with your new neighbour."/>
+	<option dst="-1:-1" text='"Leave me alone."' id="1:304089172"/>
 </room>
 
