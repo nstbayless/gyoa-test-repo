@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text="A nondescript room"/>
-	<body text="I live with no regrets.
-
-Maybe that's spurious. To be realistic, I don't live with regrets &lt;i&gt;for very long&lt;/i&gt;."/>
+	<body text=""/>
 </room>
 
