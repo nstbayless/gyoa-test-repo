@@ -3,5 +3,6 @@
 	<title text="A nondescript room"/>
 	<body text="This room is pretty boring."/>
 	<option dst="-1:-1" text="Go to another room" id="1:1714636915"/>
+	<option dst="-1:-1" text="Leave the room." id="2:1957747793"/>
 </room>
 
