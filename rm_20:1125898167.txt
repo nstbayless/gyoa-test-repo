@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='Some laughter. It turns into a coughing fir.
+	<body text='Some laughter. It turns into a coughing fit.
 
 "Yeah, sure. You slide your dagger into a gap in the postmaster&apos;s breastplate. The blood is sticky on your fingers, but you don&apos;t worry -- you&apos;ve never been able to get it off your hands and clothes before, so why start fretting about it now?
 
