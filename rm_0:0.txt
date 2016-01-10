@@ -8,5 +8,6 @@ The words echo ominously in the dark...
 Maybe you should respond.'/>
 	<option dst="6:1189641421" text='"Um... hello?"' id="1:1649760492"/>
 	<option dst="6:1189641421" text='"What?"' id="2:596516649"/>
+	<option dst="-1:-1" text="I try to tiptoe silently away. " id="3:572660336"/>
 </room>
 
