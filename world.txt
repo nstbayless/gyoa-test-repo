@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<world version="0.2" start_rm_id="0:0" next_rm_gid="31">
+<world version="0.2" start_rm_id="0:0" next_rm_gid="37">
 	<title text="blah world"/>
 	<rm id="0:0"/>
 	<rm id="1:1815208708"/>
@@ -32,5 +32,11 @@
 	<rm id="28:1911759956"/>
 	<rm id="29:137806862"/>
 	<rm id="30:1937477084"/>
+	<rm id="31:1159126505"/>
+	<rm id="32:805750846"/>
+	<rm id="33:1632621729"/>
+	<rm id="34:1100661313"/>
+	<rm id="35:1433925857"/>
+	<rm id="36:1141616124"/>
 </world>
 
