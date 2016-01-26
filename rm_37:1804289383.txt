@@ -10,6 +10,6 @@ This is *crowd-written interactive fiction*. Basically, you read a story assembl
 * has markdown support
 * has amphibious mouth muscle motion: ![frog](http://asdfasdf.ethz.ch/~simon/bitmap/bugtracker-frog.gif)
 
-blah blah"/>
+blah blah (this page is under construction)"/>
 </room>
 
