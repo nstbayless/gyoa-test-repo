@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
-	<title text=""/>
-	<body text="This room is under construction. Press [edit] to edit it."/>
+	<title text="About"/>
+	<body text="*blah"/>
 </room>
 
