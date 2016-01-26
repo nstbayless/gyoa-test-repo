@@ -19,11 +19,9 @@ blah blah (this page is under construction)
     ced font stuff wo
     ah this is p cool
 
-[The story] [st]
-
 -------------
 
-### [st]: The story ###
+### The story ###
 
 Is a silly story-within-a-story meta sorta thing that started when some people had some *weird* ideas about what would be a good story.
 
