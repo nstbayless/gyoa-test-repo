@@ -10,6 +10,12 @@ This is *crowd-written interactive fiction*. Basically, you read a story assembl
 * has markdown support
 * has amphibious mouth muscle motion: ![frog](http://asdfasdf.ethz.ch/~simon/bitmap/bugtracker-frog.gif)
 
-blah blah (this page is under construction)"/>
+blah blah (this page is under construction)
+
+### The story ###
+
+Is a silly story-within-a-story meta sorta thing that started when some people had some *weird* ideas about what would be a good story.
+
+It is written in the present tense and it is slightly recursive."/>
 </room>
 
