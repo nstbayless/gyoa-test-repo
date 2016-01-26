@@ -13,9 +13,9 @@ This is *crowd-written interactive fiction*. Basically, you read a story assembl
 
 blah blah (this page is under construction)
 
-&gt; everything begins
+    everything begins
 
-&gt; with a good quote
+    with a good quote
 
 ### The story ###
 
