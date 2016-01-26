@@ -6,7 +6,7 @@
 
 Hello! You probably came to this page because you were wondering what the heck this is you're looking at.
 
-This is *crowd-written interactive fiction*. Basically, you read a story assembled by a bunch (n&gt;3) of people and, when you reach the end, you get to write the next chunk for everyone else to read.
+This is *crowd-written interactive fiction*. Basically, you read a story assembled by a bunch (n&gt;30, for statistical significance) of people and, when you reach the end, you get to write the next chunk for everyone else to read.
 
 * has [markdown](https://daringfireball.net/projects/markdown/syntax) support
 * has amphibious mouth muscle motion: ![frog](http://asdfasdf.ethz.ch/~simon/bitmap/bugtracker-frog.gif)
@@ -29,7 +29,7 @@ It is written in the present tense and it is slightly recursive. So far it is mo
 
 These directives are malleable, but be smart.
 
-Have fun. Feel free to vandalize this page.
+Have fun. Feel free to page this vandalize. hsdklhfslkfhshdsks.
 
 --------------
 
