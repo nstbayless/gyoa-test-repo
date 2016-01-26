@@ -16,6 +16,8 @@ blah blah (this page is under construction)
 
 Is a silly story-within-a-story meta sorta thing that started when some people had some *weird* ideas about what would be a good story.
 
-It is written in the present tense and it is slightly recursive."/>
+It is written in the present tense and it is slightly recursive. So far it is mostly told through dialogue and all options indicate a dialogue choice.
+
+Directives may be broken, but be smart."/>
 </room>
 
