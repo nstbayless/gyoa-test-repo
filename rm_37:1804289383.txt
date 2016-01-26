@@ -13,6 +13,9 @@ This is *crowd-written interactive fiction*. Basically, you read a story assembl
 
 blah blah (this page is under construction)
 
+&gt; everything begins
+&gt; with a good quote
+
 ### The story ###
 
 Is a silly story-within-a-story meta sorta thing that started when some people had some *weird* ideas about what would be a good story.
