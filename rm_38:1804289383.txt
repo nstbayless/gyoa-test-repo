@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"I kept count of the days at first, just for record&apos;s sake." The voice replied. "Eventually, the point of it escaped me."
+	<body text='"I kept count of the days at first, just for record&apos;s sake." The voice replies. "Eventually, the point of it escaped me."
 
 "It was for the sake of knowledge, but you&apos;d probably think otherwise. She believed me, right up until the end."'/>
 	<option dst="-1:-1" text='"She...? Who are you talking about?"' id="1:846930886"/>
