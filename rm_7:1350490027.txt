@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"A grand intersection. Behind you are all the mistakes you&apos;ve made leading up to this point. Before you -- well, you know what&apos;s ahead of you."
+	<body text='"*A grand intersection*. Behind you are all the mistakes you&apos;ve made leading up to this point. Before you -- well, you know what&apos;s ahead of you."
 
 A pause.
 
