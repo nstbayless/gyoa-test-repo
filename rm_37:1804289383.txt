@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text="About"/>
-	<body text="*blah"/>
+	<body text="## Gyoa.js ##
+
+Hello! You probably came to this page because you were wondering what the heck this is you're looking at.
+
+This is *crowd-written interactive fiction*. Basically, you read a story assembled by a bunch (n&gt;2) of people and, when you reach the end, you get to write the next chunk for everyone else to read."/>
 </room>
 
