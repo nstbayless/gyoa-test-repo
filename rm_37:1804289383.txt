@@ -29,6 +29,13 @@ It is written in the present tense and it is slightly recursive. So far it is mo
 
 Directives may be broken, but be smart.
 
-Have fun. Feel free to vandalize this page."/>
+Have fun. Feel free to vandalize this page.
+
+--------------
+
+Vote on these favicons!
+* ![favicon 1](favicon.ico.1)
+* ![favicon 2](favicon.ico.2)
+* ![favicon 3](favicon.ico.3)"/>
 </room>
 
