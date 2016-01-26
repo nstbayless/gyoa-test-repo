@@ -37,5 +37,7 @@ Vote on these favicons!
 * ![favicon 1](favicon.ico.1)
 * ![favicon 2](favicon.ico.4)
 * ![favicon 3](favicon.ico.3)"/>
+	<option dst="0:0" text='"Let&apos;s get this show started already!"' id="1:1804289383"/>
+	<option dst="37:1804289383" text='"Help! I&apos;m at the bottom of the page and I can&apos;t scroll up!"' id="2:846930886"/>
 </room>
 
