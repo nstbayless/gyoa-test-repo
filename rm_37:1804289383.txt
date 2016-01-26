@@ -7,6 +7,8 @@ Hello! You probably came to this page because you were wondering what the heck t
 
 This is *crowd-written interactive fiction*. Basically, you read a story assembled by a bunch (n&gt;2) of people and, when you reach the end, you get to write the next chunk for everyone else to read.
 
-* has markdown support"/>
+* has markdown support
+
+blah blah"/>
 </room>
 
