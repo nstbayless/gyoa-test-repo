@@ -13,7 +13,8 @@ This is *crowd-written interactive fiction*. Basically, you read a story assembl
 
 blah blah (this page is under construction)
 
-### The story ###
+The story
+---------
 
 Is a silly story-within-a-story meta sorta thing that started when some people had some *weird* ideas about what would be a good story.
 
