@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text="About"/>
-	<body text="### (Gyoa.js)[/] ###
+	<body text="### [Gyoa.js](/) ###
+
 
 Hello! You probably came to this page because you were wondering what the heck this is you're looking at.
 
