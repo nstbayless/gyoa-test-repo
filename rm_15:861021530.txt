@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <room version="0.2">
 	<title text=""/>
-	<body text='"A &lt;i&gt;grand&lt;/i&gt; intersection. A wagon careens across the street toward you; you dodge out of the way just in time. The chaotic marketplace is overwhelming. It&apos;s a rough part of town, and it smells awful, but it&apos;s also comforting to feel the warmth of daily life."
+	<body text='"A *grand* intersection. A wagon careens across the street toward you; you dodge out of the way just in time. The chaotic marketplace is overwhelming. It&apos;s a rough part of town, and it smells awful, but it&apos;s also comforting to feel the warmth of daily life."
 
 The speaker coughs again, twice.
 
